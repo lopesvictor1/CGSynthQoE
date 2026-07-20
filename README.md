@@ -2,10 +2,6 @@
 
 **Note:** This paper has been submitted for TOMM journal paper and will be published publically.
 
-<!--[![Conference](https://img.shields.io/badge/submitted-Netsoft2025-blue)](https://netsoft2025.ieee-netsoft.org/)-->
-[![CGReplay](https://img.shields.io/badge/CGReplay-Repository-green)](https://github.com/dcomp-leris/CGReplay.git)
-[![ACM](https://img.shields.io/badge/Paper-ACM-red)](https://dl.acm.org/doi/10.1145/3744969.3748445)
-[![ACM](https://img.shields.io/badge/Video-CGSynth-blue)](https://drive.google.com/file/d/1LrWFbQx8SufftGh4FA4Pdk6-v_bhxG9B/view?usp=drive_link)
 
 
 *For more details, please refer to the Wiki page of this repository.*
